@@ -3,16 +3,28 @@
   "WorkspaceRootPath": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Class\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\Class\\Manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Pages\\ViewItem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\Pages\\ViewItem.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|c:\\users\\\u0431\u0443\u043F\\documents\\sportfour\\sportfour\\pages\\viewitem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
+      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\sportfour\\pages\\viewitem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|",
       "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:sportfour\\pages\\viewitem.xaml.cs||{8B382828-6202-11D1-8870-0000F87579D2}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\sportfour\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:sportfour\\data\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\Model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\Data\\Model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\sportfour\\class\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:sportfour\\class\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\App.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,14 +33,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
       "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\MainWindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\MainWindow.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\Model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
-      "RelativeMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|solutionrelative:Sportfour\\Data\\Model.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{CECE8162-77F0-47A4-BC53-E170FDFC8F7F}|Sportfour\\Sportfour.csproj|C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\Model.Context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -51,19 +55,30 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\User.cs",
+              "RelativeDocumentMoniker": "Sportfour\\Data\\User.cs",
+              "ToolTip": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\User.cs",
+              "RelativeToolTip": "Sportfour\\Data\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-11T11:20:32.847Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ViewItem.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Pages\\ViewItem.xaml.cs",
               "RelativeDocumentMoniker": "Sportfour\\Pages\\ViewItem.xaml.cs",
               "ToolTip": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Pages\\ViewItem.xaml.cs",
               "RelativeToolTip": "Sportfour\\Pages\\ViewItem.xaml.cs",
-              "ViewState": "AgIAADUAAAAAAAAAAAAIwF0AAABRAAAAAAAAAA==",
+              "ViewState": "AgIAACQAAAAAAAAAAADgvzEAAABaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:35:43.322Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T10:35:43.322Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "ViewItem.xaml",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Pages\\ViewItem.xaml",
               "RelativeDocumentMoniker": "Sportfour\\Pages\\ViewItem.xaml",
@@ -75,20 +90,19 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 5,
               "Title": "Manager.cs",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Class\\Manager.cs",
               "RelativeDocumentMoniker": "Sportfour\\Class\\Manager.cs",
               "ToolTip": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Class\\Manager.cs",
               "RelativeToolTip": "Sportfour\\Class\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAyAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-10T10:22:37.774Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-10T10:22:37.774Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\App.xaml",
               "RelativeDocumentMoniker": "Sportfour\\App.xaml",
@@ -99,7 +113,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "MainWindow.xaml",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\MainWindow.xaml",
               "RelativeDocumentMoniker": "Sportfour\\MainWindow.xaml",
@@ -110,7 +124,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 4,
               "Title": "MainWindow.xaml.cs",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\MainWindow.xaml.cs",
               "RelativeDocumentMoniker": "Sportfour\\MainWindow.xaml.cs",
@@ -122,7 +136,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 3,
               "Title": "Model.edmx [Diagram1]",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\Model.edmx",
               "RelativeDocumentMoniker": "Sportfour\\Data\\Model.edmx",
@@ -133,7 +147,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "Model.Context.cs",
               "DocumentMoniker": "C:\\Users\\\u0411\u0443\u043F\\Documents\\Sportfour\\Sportfour\\Data\\Model.Context.cs",
               "RelativeDocumentMoniker": "Sportfour\\Data\\Model.Context.cs",

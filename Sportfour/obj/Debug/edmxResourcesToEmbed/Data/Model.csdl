@@ -47,10 +47,10 @@
     <Property Name="Login" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="Password" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
     <Property Name="MobileNumber" Type="String" MaxLength="50" FixedLength="false" Unicode="true" Nullable="false" />
-    <Property Name="Passport" Type="String" MaxLength="100" FixedLength="false" Unicode="true" Nullable="false" />
+    <Property Name="Passport" Type="String" MaxLength="100" FixedLength="false" Unicode="true" />
     <Property Name="DateOfBirth" Type="DateTime" Nullable="false" Precision="0" />
-    <Property Name="LastAuthDate" Type="DateTime" Nullable="false" Precision="0" />
-    <Property Name="LastAAuthTime" Type="Time" Nullable="false" Precision="7" />
+    <Property Name="LastAuthDate" Type="DateTime" Precision="0" />
+    <Property Name="LastAAuthTime" Type="Time" Precision="7" />
     <Property Name="TypeOfAuth" Type="Int32" />
     <Property Name="GenderId" Type="Int32" Nullable="false" />
     <NavigationProperty Name="Gender" Relationship="Self.FK_User_Gender" FromRole="User" ToRole="Gender" />

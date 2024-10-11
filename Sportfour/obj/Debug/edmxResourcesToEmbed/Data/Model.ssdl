@@ -44,10 +44,10 @@
     <Property Name="Login" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="Password" Type="nvarchar" MaxLength="50" Nullable="false" />
     <Property Name="MobileNumber" Type="nvarchar" MaxLength="50" Nullable="false" />
-    <Property Name="Passport" Type="nvarchar" MaxLength="100" Nullable="false" />
+    <Property Name="Passport" Type="nvarchar" MaxLength="100" />
     <Property Name="DateOfBirth" Type="date" Nullable="false" />
-    <Property Name="LastAuthDate" Type="date" Nullable="false" />
-    <Property Name="LastAAuthTime" Type="time" Precision="7" Nullable="false" />
+    <Property Name="LastAuthDate" Type="date" />
+    <Property Name="LastAAuthTime" Type="time" Precision="7" />
     <Property Name="TypeOfAuth" Type="int" />
     <Property Name="GenderId" Type="int" Nullable="false" />
   </EntityType>

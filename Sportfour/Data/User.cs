@@ -25,8 +25,8 @@ namespace Sportfour.Data
         public string MobileNumber { get; set; }
         public string Passport { get; set; }
         public System.DateTime DateOfBirth { get; set; }
-        public System.DateTime LastAuthDate { get; set; }
-        public System.TimeSpan LastAAuthTime { get; set; }
+        public Nullable<System.DateTime> LastAuthDate { get; set; }
+        public Nullable<System.TimeSpan> LastAAuthTime { get; set; }
         public Nullable<int> TypeOfAuth { get; set; }
         public int GenderId { get; set; }
     

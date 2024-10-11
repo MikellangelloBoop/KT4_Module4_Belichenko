@@ -17,7 +17,7 @@ namespace Sportfour.Data
     {
         private static SportEntities _context;
         public SportEntities()
-            : base("name=ShopEntities")
+            : base("name=SportEntities")
         {
         }
 
@@ -29,6 +29,7 @@ namespace Sportfour.Data
             }
             return _context;
         }
+
         protected override void OnModelCreating(DbModelBuilder modelBuilder)
         {
             throw new UnintentionalCodeFirstException();

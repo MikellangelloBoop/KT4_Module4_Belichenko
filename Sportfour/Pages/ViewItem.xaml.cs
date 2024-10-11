@@ -102,8 +102,14 @@ namespace Sportfour.Pages
 
         private void EditButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Class.Manager.MainFrame.Navigate(new Pages.AddUser((sender as Button).DataContext as Data.User));
         }
+
+        private void Add_Click(object sender, RoutedEventArgs e)
+        {
+            Class.Manager.MainFrame.Navigate(new Pages.AddUser(null));
+        }
+
     }
     }
 

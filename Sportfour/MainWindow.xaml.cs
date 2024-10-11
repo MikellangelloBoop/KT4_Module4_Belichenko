@@ -23,11 +23,13 @@ namespace Sportfour
         public MainWindow()
         {
             InitializeComponent();
+            Class.Manager.MainFrame = MainFrame;
+            Class.Manager.MainFrame.Navigate(new Pages.ViewItem());
         }
 
         private void MainFrame_Navigated(object sender, NavigationEventArgs e)
         {
-            Class.Manager.MainFrame.Navigate(new Pages.ViewItem());
+
         }
     }
 }

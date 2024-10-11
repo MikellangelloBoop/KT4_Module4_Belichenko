@@ -16,4 +16,4 @@ namespace Sportfour.Class
         public static Data.User CurrentUser { get; set; }
     }
 }
-/
+
